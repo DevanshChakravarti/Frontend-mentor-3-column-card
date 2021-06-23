@@ -29,8 +29,8 @@ Challenge was to develop given layout in give viewport:
 
 ### Links
 
-- Solution URL: [Click Here](https://your-solution-url.com)
-- Live Site URL: [Click Here](https://your-live-site-url.com)
+- Solution URL: [Click Here](https://github.com/DevanshChakravarti/Frontend-mentor-3-column-card)
+- Live Site URL: [Click Here](https://devanshchakravarti.github.io/Frontend-mentor-3-column-card/)
 
 ### Built with
 
@@ -45,5 +45,5 @@ Revision of HTML5 and CSS3. Thing I learned from this challenge is to make effec
 
 ## Author
 
-- Website - [Devansh Chakravarti](https://github.com/Dev-9908)
-- Frontend Mentor - [@Devansh](https://www.frontendmentor.io/profile/Dev-9908)
+- Website - [Devansh Chakravarti](https://github.com/DevanshChakravarti)
+- Frontend Mentor - [@Devansh](https://www.frontendmentor.io/profile/DevanshChakravarti)
