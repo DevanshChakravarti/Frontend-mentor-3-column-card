@@ -47,6 +47,7 @@ main {
 .cards h1{
   padding: 2rem 0;
   font-size: 2.5em;
+  text-transform: uppercase;
 }
 .cards p{
   font-family: 'Lexend Deca', sans-serif;
