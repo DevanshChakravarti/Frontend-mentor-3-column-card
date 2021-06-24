@@ -62,7 +62,6 @@ main {
   background: var(--Transparent-white);
   border: none;
   text-decoration: none;
-  font-size: 1.2em;
   font-family: 'Lexend Deca', sans-serif;
 }
 .btn:hover{
